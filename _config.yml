@@ -1,4 +1,3 @@
-layout_spectrum: 0.6112083282787353
 typography_spectrum: 0.2255643238313496
 color:
   brandStrength: 0.9323803610168397
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.6112083282787353
 name: Tbone
 title: TBone
+description: Aliments crus pour animaux
