@@ -1,0 +1,14 @@
+layout_spectrum: 0.6112083282787353
+typography_spectrum: 0.2255643238313496
+color:
+  brandStrength: 0.9323803610168397
+  lightness: 0.7480779238976538
+  saturation: 0.09189684386365116
+  rhythmicContrast: 0.9541720715351403
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Tbone
