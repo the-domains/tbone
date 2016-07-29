@@ -1,16 +1,16 @@
-typography_spectrum: 0.2255643238313496
+typography_spectrum: 0.901656653964892
 color:
-  brandStrength: 0.9323803610168397
-  lightness: 0.7480779238976538
-  saturation: 0.09189684386365116
-  rhythmicContrast: 0.9541720715351403
+  brandStrength: 0.7618715751450509
+  lightness: 0.788274651626125
+  saturation: 0.7004496157169342
+  rhythmicContrast: 0.1401998745277524
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.6112083282787353
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+layout_spectrum: 0.5794217039365321
 name: Tbone
 title: TBone
 description: Aliments crus pour animaux
