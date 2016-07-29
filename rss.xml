@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tbone]]></title>
-        <description><![CDATA[Tbone]]></description>
+        <title><![CDATA[TBone]]></title>
+        <description><![CDATA[TBone]]></description>
         <link>https://thegrid.ai/tbone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 03:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 03:51:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tbone/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ea9f334-1fc3-4431-92c3-56d926794a8b.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ea9f334-1fc3-4431-92c3-56d926794a8b.jpg</link>
+            <guid isPermaLink="false">3b753aec-4e10-406e-ab20-45906c19217e</guid>
+            <pubDate>Fri, 29 Jul 2016 03:51:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bits And Pieces - An organic wave of Hoberman Spheres]]></title>
             <description><![CDATA[<article><h1>Bits And Pieces - An organic wave of Hoberman Spheres</h1><p>Currently on show at Berlin's NOME Gallery is the latest work by Nils Völker titled Bits And Pieces. The installation consists out of 108 mass-produced toy spheres hanging in the middle of the exhibition space, individually addressable and controlled, to create organic waves that appear to move throughout the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c17de1db318a16ae7c090ab6a2dab8f308c76c.jpg"></article>]]></description>
